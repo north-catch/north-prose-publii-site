@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "North Prose",
+    "description": "",
+    "home_page_url": "https://north-catch.github.io/north-prose-publii-site",
+    "feed_url": "https://north-catch.github.io/north-prose-publii-site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ching-Yin Foo"
+    },
+    "items": [
+    ]
+}
