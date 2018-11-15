@@ -3,10 +3,32 @@
     <title>North Prose</title>
     <link href="https://north-catch.github.io/north-prose-publii-site/feed.xml" rel="self" />
     <link href="https://north-catch.github.io/north-prose-publii-site" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2018-11-15T02:42:07+01:00</updated>
     <author>
         <name>Ching-Yin Foo</name>
     </author>
     <id>https://north-catch.github.io/north-prose-publii-site</id>
 
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Ching-Yin Foo</name>
+        </author>
+        <link href="https://north-catch.github.io/north-prose-publii-site/hello.html"/>
+        <id>https://north-catch.github.io/north-prose-publii-site/hello.html</id>
+
+        <updated>2018-11-15T02:35:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://north-catch.github.io/north-prose-publii-site/media/posts/1/" alt="" />
+                    This is a test!!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://north-catch.github.io/north-prose-publii-site/media/posts/1/" alt="" />
+                This is a test!!
+            ]]>
+        </content>
+    </entry>
 </feed>
